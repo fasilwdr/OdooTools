@@ -1,2 +1,2 @@
 # OdooTools
-Odoo Tools
+Odoo Tools Test
